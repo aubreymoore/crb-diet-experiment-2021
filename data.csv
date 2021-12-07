@@ -1,0 +1,1220 @@
+unique_larva_id,treatment,observation_date,status,mass
+CM 5/11/2021 1,manure,5/11/2021,egg,10
+CM 5/11/2021 1,manure,5/25/2021,larva,186
+CM 5/11/2021 1,manure,6/1/2021,larva,381
+CM 5/11/2021 1,manure,6/15/2021,larva,1307
+CM 5/11/2021 1,manure,6/22/2021,larva,1548
+CM 5/11/2021 1,manure,6/29/2021,larva,2111
+CM 5/11/2021 1,manure,6/8/2021,larva,535
+CM 5/11/2021 1,manure,7/14/2021,larva,2675
+CM 5/11/2021 1,manure,7/20/2021,larva,3866
+CM 5/11/2021 1,manure,7/28/2021,larva,5276
+CM 5/11/2021 1,manure,7/6/2021,larva,2419
+CM 5/11/2021 1,manure,8/10/2021,larva,8901
+CM 5/11/2021 1,manure,8/4/2021,larva,7335
+CM 5/11/2021 2,manure,5/11/2021,egg,10
+CM 5/11/2021 2,manure,5/25/2021,larva,210
+CM 5/11/2021 2,manure,6/1/2021,larva,297
+CM 5/11/2021 2,manure,6/15/2021,larva,875
+CM 5/11/2021 2,manure,6/22/2021,larva,1033
+CM 5/11/2021 2,manure,6/29/2021,larva,667
+CM 5/11/2021 2,manure,6/8/2021,larva,440
+CM 5/11/2021 2,manure,7/6/2021,dead,43
+CM 5/11/2021 3,manure,5/11/2021,egg,10
+CM 5/11/2021 3,manure,5/25/2021,larva,87
+CM 5/11/2021 3,manure,6/1/2021,larva,233
+CM 5/11/2021 3,manure,6/15/2021,dead,136
+CM 5/11/2021 3,manure,6/8/2021,larva,181
+CM 5/11/2021 4,manure,5/11/2021,egg,10
+CM 5/11/2021 4,manure,5/25/2021,larva,162
+CM 5/11/2021 4,manure,6/1/2021,larva,345
+CM 5/11/2021 4,manure,6/15/2021,dead,181
+CM 5/11/2021 4,manure,6/8/2021,larva,366
+CM 5/11/2021 5,manure,5/11/2021,egg,10
+CM 5/11/2021 5,manure,5/25/2021,larva,157
+CM 5/11/2021 5,manure,6/1/2021,larva,380
+CM 5/11/2021 5,manure,6/15/2021,larva,1276
+CM 5/11/2021 5,manure,6/22/2021,larva,1515
+CM 5/11/2021 5,manure,6/29/2021,larva,2620
+CM 5/11/2021 5,manure,6/8/2021,larva,636
+CM 5/11/2021 5,manure,7/14/2021,larva,3044
+CM 5/11/2021 5,manure,7/20/2021,larva,4127
+CM 5/11/2021 5,manure,7/28/2021,larva,4800
+CM 5/11/2021 5,manure,7/6/2021,larva,2543
+CM 5/11/2021 5,manure,8/10/2021,larva,7535
+CM 5/11/2021 5,manure,8/4/2021,larva,6163
+CM 5/11/2021 6,manure,5/11/2021,egg,10
+CM 5/11/2021 6,manure,5/25/2021,larva,174
+CM 5/11/2021 6,manure,6/1/2021,larva,343
+CM 5/11/2021 6,manure,6/15/2021,dead,174
+CM 5/11/2021 6,manure,6/8/2021,larva,472
+CM 5/11/2021 7,manure,5/11/2021,egg,10
+CM 5/11/2021 7,manure,5/25/2021,larva,143
+CM 5/11/2021 7,manure,6/1/2021,larva,287
+CM 5/11/2021 7,manure,6/15/2021,larva,403
+CM 5/11/2021 7,manure,6/22/2021,larva,783
+CM 5/11/2021 7,manure,6/29/2021,larva,1381
+CM 5/11/2021 7,manure,6/8/2021,larva,326
+CM 5/11/2021 7,manure,7/14/2021,larva,1445
+CM 5/11/2021 7,manure,7/20/2021,dead,1111
+CM 5/11/2021 7,manure,7/6/2021,larva,1583
+CM 5/11/2021 8,manure,5/11/2021,egg,10
+CM 5/11/2021 8,manure,5/25/2021,larva,198
+CM 5/11/2021 8,manure,6/1/2021,larva,249
+CM 5/11/2021 8,manure,6/8/2021,dead,165
+CM 5/12/2021 1,manure,5/12/2021,egg,10
+CM 5/12/2021 1,manure,5/25/2021,larva,100
+CM 5/12/2021 1,manure,6/1/2021,larva,260
+CM 5/12/2021 1,manure,6/8/2021,dead,341
+CM 5/12/2021 10,manure,5/12/2021,egg,10
+CM 5/12/2021 10,manure,5/25/2021,larva,165
+CM 5/12/2021 10,manure,6/1/2021,dead,172
+CM 5/12/2021 2,manure,5/12/2021,egg,10
+CM 5/12/2021 2,manure,5/25/2021,empty,0
+CM 5/12/2021 3,manure,5/12/2021,egg,10
+CM 5/12/2021 3,manure,5/25/2021,larva,239
+CM 5/12/2021 3,manure,6/1/2021,larva,359
+CM 5/12/2021 3,manure,6/15/2021,dead,44
+CM 5/12/2021 3,manure,6/22/2021,dead,52
+CM 5/12/2021 3,manure,6/8/2021,larva,236
+CM 5/12/2021 4,manure,5/12/2021,egg,10
+CM 5/12/2021 4,manure,5/25/2021,larva,150
+CM 5/12/2021 4,manure,6/1/2021,dead,191
+CM 5/12/2021 5,manure,5/12/2021,egg,10
+CM 5/12/2021 5,manure,5/25/2021,larva,134
+CM 5/12/2021 5,manure,6/1/2021,larva,380
+CM 5/12/2021 5,manure,6/15/2021,larva,1206
+CM 5/12/2021 5,manure,6/22/2021,larva,1157
+CM 5/12/2021 5,manure,6/29/2021,larva,1303
+CM 5/12/2021 5,manure,6/8/2021,larva,570
+CM 5/12/2021 5,manure,7/14/2021,larva,682
+CM 5/12/2021 5,manure,7/20/2021,dead,264
+CM 5/12/2021 5,manure,7/28/2021,dead,58
+CM 5/12/2021 5,manure,7/6/2021,larva,1478
+CM 5/12/2021 6,manure,5/12/2021,egg,10
+CM 5/12/2021 6,manure,5/25/2021,larva,109
+CM 5/12/2021 6,manure,6/1/2021,larva,298
+CM 5/12/2021 6,manure,6/15/2021,dead,404
+CM 5/12/2021 6,manure,6/8/2021,larva,328
+CM 5/12/2021 7,manure,5/12/2021,egg,10
+CM 5/12/2021 7,manure,5/25/2021,larva,173
+CM 5/12/2021 7,manure,6/1/2021,larva,220
+CM 5/12/2021 7,manure,6/15/2021,dead,64
+CM 5/12/2021 7,manure,6/8/2021,larva,158
+CM 5/12/2021 8,manure,5/12/2021,egg,10
+CM 5/12/2021 8,manure,5/25/2021,larva,181
+CM 5/12/2021 8,manure,6/1/2021,larva,249
+CM 5/12/2021 8,manure,6/15/2021,larva,681
+CM 5/12/2021 8,manure,6/22/2021,larva,954
+CM 5/12/2021 8,manure,6/29/2021,larva,1086
+CM 5/12/2021 8,manure,6/8/2021,larva,353
+CM 5/12/2021 8,manure,7/6/2021,dead,741
+CM 5/12/2021 9,manure,5/12/2021,egg,10
+CM 5/12/2021 9,manure,5/25/2021,empty,0
+CM 5/13/2021 1,manure,5/13/2021,egg,10
+CM 5/13/2021 1,manure,5/25/2021,larva,82
+CM 5/13/2021 1,manure,6/1/2021,larva,368
+CM 5/13/2021 1,manure,6/15/2021,larva,1496
+CM 5/13/2021 1,manure,6/22/2021,larva,1737
+CM 5/13/2021 1,manure,6/29/2021,larva,2660
+CM 5/13/2021 1,manure,6/8/2021,larva,576
+CM 5/13/2021 1,manure,7/14/2021,larva,3062
+CM 5/13/2021 1,manure,7/20/2021,larva,4016
+CM 5/13/2021 1,manure,7/28/2021,larva,5605
+CM 5/13/2021 1,manure,7/6/2021,larva,2648
+CM 5/13/2021 1,manure,8/10/2021,larva,7786
+CM 5/13/2021 1,manure,8/4/2021,larva,6687
+CM 5/13/2021 2,manure,5/13/2021,egg,10
+CM 5/13/2021 2,manure,5/25/2021,empty,0
+CM 5/13/2021 3,manure,5/13/2021,egg,10
+CM 5/13/2021 3,manure,5/25/2021,larva,140
+CM 5/13/2021 3,manure,6/1/2021,larva,348
+CM 5/13/2021 3,manure,6/15/2021,larva,965
+CM 5/13/2021 3,manure,6/22/2021,larva,1355
+CM 5/13/2021 3,manure,6/29/2021,larva,1913
+CM 5/13/2021 3,manure,6/8/2021,larva,360
+CM 5/13/2021 3,manure,7/14/2021,larva,2723
+CM 5/13/2021 3,manure,7/20/2021,larva,3058
+CM 5/13/2021 3,manure,7/28/2021,larva,4331
+CM 5/13/2021 3,manure,7/6/2021,larva,1839
+CM 5/13/2021 3,manure,8/10/2021,larva,6761
+CM 5/13/2021 3,manure,8/4/2021,larva,5417
+CM 5/13/2021 4,manure,5/13/2021,egg,10
+CM 5/13/2021 4,manure,5/25/2021,larva,155
+CM 5/13/2021 4,manure,6/1/2021,larva,283
+CM 5/13/2021 4,manure,6/15/2021,dead,137
+CM 5/13/2021 4,manure,6/8/2021,larva,209
+CM 5/13/2021 5,manure,5/13/2021,egg,10
+CM 5/13/2021 5,manure,5/25/2021,larva,232
+CM 5/13/2021 5,manure,6/1/2021,larva,342
+CM 5/13/2021 5,manure,6/15/2021,larva,1067
+CM 5/13/2021 5,manure,6/22/2021,larva,1271
+CM 5/13/2021 5,manure,6/29/2021,larva,1747
+CM 5/13/2021 5,manure,6/8/2021,larva,446
+CM 5/13/2021 5,manure,7/14/2021,larva,894
+CM 5/13/2021 5,manure,7/20/2021,dead,248
+CM 5/13/2021 5,manure,7/6/2021,larva,1234
+CM 5/13/2021 6,manure,5/13/2021,egg,10
+CM 5/13/2021 6,manure,5/25/2021,empty,0
+CM 5/13/2021 7,manure,5/13/2021,egg,10
+CM 5/13/2021 7,manure,5/25/2021,empty,0
+CM 5/13/2021 8,manure,5/13/2021,egg,10
+CM 5/13/2021 8,manure,5/25/2021,empty,0
+CM 5/13/2021 9,manure,5/13/2021,egg,10
+CM 5/13/2021 9,manure,5/25/2021,egg,0
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/13/2021 9,manure,EGG,egg,EGG
+CM 5/14/2021 1,manure,5/14/2021,egg,10
+CM 5/14/2021 1,manure,5/25/2021,larva,134
+CM 5/14/2021 1,manure,6/1/2021,larva,308
+CM 5/14/2021 1,manure,6/15/2021,dead,215
+CM 5/14/2021 1,manure,6/8/2021,larva,364
+CM 5/14/2021 10,manure,5/14/2021,egg,10
+CM 5/14/2021 10,manure,5/25/2021,larva,204
+CM 5/14/2021 10,manure,6/1/2021,larva,400
+CM 5/14/2021 10,manure,6/15/2021,larva,1387
+CM 5/14/2021 10,manure,6/22/2021,larva,1739
+CM 5/14/2021 10,manure,6/29/2021,larva,2382
+CM 5/14/2021 10,manure,6/8/2021,larva,627
+CM 5/14/2021 10,manure,7/14/2021,larva,2898
+CM 5/14/2021 10,manure,7/20/2021,larva,3280
+CM 5/14/2021 10,manure,7/28/2021,larva,4891
+CM 5/14/2021 10,manure,7/6/2021,larva,2214
+CM 5/14/2021 10,manure,8/10/2021,larva,7123
+CM 5/14/2021 10,manure,8/4/2021,larva,6306
+CM 5/14/2021 11,manure,5/14/2021,egg,10
+CM 5/14/2021 11,manure,5/25/2021,larva,196
+CM 5/14/2021 11,manure,6/1/2021,larva,337
+CM 5/14/2021 11,manure,6/15/2021,larva,953
+CM 5/14/2021 11,manure,6/22/2021,larva,1327
+CM 5/14/2021 11,manure,6/29/2021,larva,2102
+CM 5/14/2021 11,manure,6/8/2021,larva,480
+CM 5/14/2021 11,manure,7/14/2021,larva,2815
+CM 5/14/2021 11,manure,7/20/2021,larva,3455
+CM 5/14/2021 11,manure,7/28/2021,larva,4997
+CM 5/14/2021 11,manure,7/6/2021,larva,2295
+CM 5/14/2021 11,manure,8/10/2021,larva,6747
+CM 5/14/2021 11,manure,8/4/2021,larva,6117
+CM 5/14/2021 2,manure,5/14/2021,egg,10
+CM 5/14/2021 2,manure,5/25/2021,larva,241
+CM 5/14/2021 2,manure,6/1/2021,larva,350
+CM 5/14/2021 2,manure,6/15/2021,larva,987
+CM 5/14/2021 2,manure,6/22/2021,larva,1453
+CM 5/14/2021 2,manure,6/29/2021,larva,1784
+CM 5/14/2021 2,manure,6/8/2021,larva,325
+CM 5/14/2021 2,manure,7/14/2021,larva,2558
+CM 5/14/2021 2,manure,7/20/2021,larva,2263
+CM 5/14/2021 2,manure,7/28/2021,larva,3888
+CM 5/14/2021 2,manure,7/6/2021,larva,1958
+CM 5/14/2021 2,manure,8/10/2021,larva,6026
+CM 5/14/2021 2,manure,8/4/2021,larva,4315
+CM 5/14/2021 3,manure,5/14/2021,egg,10
+CM 5/14/2021 3,manure,5/25/2021,egg,0
+CM 5/14/2021 3,manure,6/1/2021,larva,152
+CM 5/14/2021 3,manure,6/15/2021,larva,262
+CM 5/14/2021 3,manure,6/22/2021,larva,542
+CM 5/14/2021 3,manure,6/29/2021,larva,513
+CM 5/14/2021 3,manure,6/8/2021,larva,220
+CM 5/14/2021 3,manure,7/6/2021,dead,224
+CM 5/14/2021 4,manure,5/14/2021,egg,10
+CM 5/14/2021 4,manure,5/25/2021,egg,0
+CM 5/14/2021 4,manure,EGG,egg,EGG
+CM 5/14/2021 4,manure,EGG,egg,EGG
+CM 5/14/2021 5,manure,5/14/2021,egg,10
+CM 5/14/2021 5,manure,5/25/2021,larva,246
+CM 5/14/2021 5,manure,6/1/2021,larva,358
+CM 5/14/2021 5,manure,6/15/2021,larva,1071
+CM 5/14/2021 5,manure,6/22/2021,larva,1177
+CM 5/14/2021 5,manure,6/29/2021,larva,1884
+CM 5/14/2021 5,manure,6/8/2021,larva,540
+CM 5/14/2021 5,manure,7/14/2021,larva,2843
+CM 5/14/2021 5,manure,7/20/2021,larva,3009
+CM 5/14/2021 5,manure,7/28/2021,larva,5241
+CM 5/14/2021 5,manure,7/6/2021,larva,1913
+CM 5/14/2021 5,manure,8/10/2021,larva,7145
+CM 5/14/2021 5,manure,8/4/2021,larva,6361
+CM 5/14/2021 6,manure,5/14/2021,egg,10
+CM 5/14/2021 6,manure,5/25/2021,larva,49
+CM 5/14/2021 6,manure,6/1/2021,larva,110
+CM 5/14/2021 6,manure,6/15/2021,dead,161
+CM 5/14/2021 6,manure,6/8/2021,larva,261
+CM 5/14/2021 7,manure,5/14/2021,egg,10
+CM 5/14/2021 7,manure,5/25/2021,larva,74
+CM 5/14/2021 7,manure,6/1/2021,larva,357
+CM 5/14/2021 7,manure,6/15/2021,dead,574
+CM 5/14/2021 7,manure,6/8/2021,larva,595
+CM 5/14/2021 8,manure,5/14/2021,egg,10
+CM 5/14/2021 8,manure,5/25/2021,larva,68
+CM 5/14/2021 8,manure,6/1/2021,dead,75
+CM 5/14/2021 9,manure,5/14/2021,egg,10
+CM 5/14/2021 9,manure,5/25/2021,larva,89
+CM 5/14/2021 9,manure,6/1/2021,larva,330
+CM 5/14/2021 9,manure,6/15/2021,larva,1258
+CM 5/14/2021 9,manure,6/22/2021,larva,1629
+CM 5/14/2021 9,manure,6/29/2021,larva,2289
+CM 5/14/2021 9,manure,6/8/2021,larva,469
+CM 5/14/2021 9,manure,7/14/2021,larva,2746
+CM 5/14/2021 9,manure,7/20/2021,larva,3555
+CM 5/14/2021 9,manure,7/28/2021,larva,5037
+CM 5/14/2021 9,manure,7/6/2021,larva,2196
+CM 5/14/2021 9,manure,8/10/2021,larva,7827
+CM 5/14/2021 9,manure,8/4/2021,larva,7001
+CM 5/17/2021 1,manure,5/17/2021,egg,10
+CM 5/17/2021 1,manure,5/25/2021,larva,28
+CM 5/17/2021 1,manure,6/1/2021,larva,228
+CM 5/17/2021 1,manure,6/15/2021,dead,58
+CM 5/17/2021 1,manure,6/8/2021,larva,108
+CM 5/17/2021 2,manure,5/17/2021,egg,10
+CM 5/17/2021 2,manure,5/25/2021,larva,138
+CM 5/17/2021 2,manure,6/1/2021,larva,298
+CM 5/17/2021 2,manure,6/15/2021,dead,195
+CM 5/17/2021 2,manure,6/8/2021,larva,263
+CM 5/17/2021 3,manure,06/29/2021,dead,33
+CM 5/17/2021 3,manure,5/17/2021,egg,10
+CM 5/17/2021 3,manure,5/25/2021,egg,0
+CM 5/17/2021 3,manure,6/1/2021,larva,213
+CM 5/17/2021 3,manure,6/15/2021,larva,188
+CM 5/17/2021 3,manure,6/22/2021,dead,45
+CM 5/17/2021 3,manure,6/8/2021,larva,287
+CM 5/17/2021 4,manure,5/17/2021,egg,10
+CM 5/17/2021 4,manure,5/25/2021,larva,85
+CM 5/17/2021 4,manure,6/1/2021,dead,94
+CM 5/17/2021 5,manure,5/17/2021,egg,10
+CM 5/17/2021 5,manure,5/25/2021,empty,0
+CM 5/17/2021 6,manure,5/17/2021,egg,10
+CM 5/17/2021 6,manure,5/25/2021,larva,152
+CM 5/17/2021 6,manure,6/1/2021,larva,284
+CM 5/17/2021 6,manure,6/8/2021,dead,334
+CM 5/17/2021 7,manure,5/17/2021,egg,10
+CM 5/17/2021 7,manure,5/25/2021,larva,192
+CM 5/17/2021 7,manure,6/1/2021,larva,210
+CM 5/17/2021 7,manure,6/15/2021,dead,34
+CM 5/17/2021 7,manure,6/8/2021,larva,188
+CM 5/17/2021 8,manure,5/17/2021,egg,10
+CM 5/17/2021 8,manure,5/25/2021,larva,138
+CM 5/17/2021 8,manure,6/1/2021,dead,211
+FCT 5/11/2021 1,frass,5/11/2021,egg,10
+FCT 5/11/2021 1,frass,5/24/2021,larva,203
+FCT 5/11/2021 1,frass,6/15/2021,larva,1494
+FCT 5/11/2021 1,frass,6/2/2021,larva,420
+FCT 5/11/2021 1,frass,6/22/2021,larva,2008
+FCT 5/11/2021 1,frass,6/29/2021,larva,2101
+FCT 5/11/2021 1,frass,6/9/2021,larva,686
+FCT 5/11/2021 1,frass,7/14/2021,larva,2834
+FCT 5/11/2021 1,frass,7/20/2021,larva,3084
+FCT 5/11/2021 1,frass,7/28/2021,larva,3454
+FCT 5/11/2021 1,frass,7/6/2021,larva,2595
+FCT 5/11/2021 1,frass,8/10/2021,larva,5613
+FCT 5/11/2021 1,frass,8/4/2021,larva,5260
+FCT 5/11/2021 2,frass,5/11/2021,egg,10
+FCT 5/11/2021 2,frass,5/24/2021,larva,114
+FCT 5/11/2021 2,frass,6/15/2021,larva,1102
+FCT 5/11/2021 2,frass,6/2/2021,larva,381
+FCT 5/11/2021 2,frass,6/22/2021,larva,1715
+FCT 5/11/2021 2,frass,6/29/2021,larva,2232
+FCT 5/11/2021 2,frass,6/9/2021,larva,390
+FCT 5/11/2021 2,frass,7/14/2021,larva,1969
+FCT 5/11/2021 2,frass,7/20/2021,larva,1924
+FCT 5/11/2021 2,frass,7/28/2021,larva,1715
+FCT 5/11/2021 2,frass,7/6/2021,larva,2296
+FCT 5/11/2021 2,frass,8/10/2021,larva,3463
+FCT 5/11/2021 2,frass,8/4/2021,larva,2594
+FCT 5/11/2021 3,frass,5/11/2021,egg,10
+FCT 5/11/2021 3,frass,5/24/2021,larva,256
+FCT 5/11/2021 3,frass,6/15/2021,larva,1460
+FCT 5/11/2021 3,frass,6/2/2021,larva,385
+FCT 5/11/2021 3,frass,6/22/2021,larva,1956
+FCT 5/11/2021 3,frass,6/29/2021,larva,2545
+FCT 5/11/2021 3,frass,6/9/2021,larva,768
+FCT 5/11/2021 3,frass,7/14/2021,larva,3006
+FCT 5/11/2021 3,frass,7/20/2021,larva,3458
+FCT 5/11/2021 3,frass,7/28/2021,larva,3820
+FCT 5/11/2021 3,frass,7/6/2021,larva,2838
+FCT 5/11/2021 3,frass,8/10/2021,larva,5943
+FCT 5/11/2021 3,frass,8/4/2021,larva,5077
+FCT 5/11/2021 4,frass,5/11/2021,egg,10
+FCT 5/11/2021 4,frass,5/24/2021,larva,145
+FCT 5/11/2021 4,frass,6/15/2021,larva,1210
+FCT 5/11/2021 4,frass,6/2/2021,larva,424
+FCT 5/11/2021 4,frass,6/22/2021,larva,1875
+FCT 5/11/2021 4,frass,6/29/2021,larva,2150
+FCT 5/11/2021 4,frass,6/9/2021,larva,548
+FCT 5/11/2021 4,frass,7/14/2021,larva,3163
+FCT 5/11/2021 4,frass,7/20/2021,larva,3467
+FCT 5/11/2021 4,frass,7/28/2021,larva,3347
+FCT 5/11/2021 4,frass,7/6/2021,larva,2817
+FCT 5/11/2021 4,frass,8/10/2021,larva,6045
+FCT 5/11/2021 4,frass,8/4/2021,larva,5320
+FCT 5/11/2021 5,frass,5/11/2021,egg,10
+FCT 5/11/2021 5,frass,5/24/2021,larva,236
+FCT 5/11/2021 5,frass,6/15/2021,larva,1442
+FCT 5/11/2021 5,frass,6/2/2021,larva,425
+FCT 5/11/2021 5,frass,6/22/2021,larva,2145
+FCT 5/11/2021 5,frass,6/29/2021,larva,2447
+FCT 5/11/2021 5,frass,6/9/2021,larva,778
+FCT 5/11/2021 5,frass,7/14/2021,larva,2401
+FCT 5/11/2021 5,frass,7/20/2021,larva,2702
+FCT 5/11/2021 5,frass,7/28/2021,larva,2688
+FCT 5/11/2021 5,frass,7/6/2021,larva,2810
+FCT 5/11/2021 5,frass,8/10/2021,larva,5572
+FCT 5/11/2021 5,frass,8/4/2021,larva,4542
+FCT 5/11/2021 6,frass,5/11/2021,egg,10
+FCT 5/11/2021 6,frass,5/24/2021,larva,279
+FCT 5/11/2021 6,frass,6/15/2021,larva,1701
+FCT 5/11/2021 6,frass,6/2/2021,larva,420
+FCT 5/11/2021 6,frass,6/22/2021,larva,2355
+FCT 5/11/2021 6,frass,6/29/2021,larva,2276
+FCT 5/11/2021 6,frass,6/9/2021,larva,818
+FCT 5/11/2021 6,frass,7/14/2021,larva,3044
+FCT 5/11/2021 6,frass,7/20/2021,larva,3111
+FCT 5/11/2021 6,frass,7/28/2021,larva,2926
+FCT 5/11/2021 6,frass,7/6/2021,larva,2636
+FCT 5/11/2021 6,frass,8/10/2021,larva,4793
+FCT 5/11/2021 6,frass,8/4/2021,larva,3258
+FCT 5/11/2021 7,frass,5/11/2021,egg,10
+FCT 5/11/2021 7,frass,5/24/2021,larva,145
+FCT 5/11/2021 7,frass,6/15/2021,larva,1141
+FCT 5/11/2021 7,frass,6/2/2021,larva,441
+FCT 5/11/2021 7,frass,6/22/2021,larva,1879
+FCT 5/11/2021 7,frass,6/29/2021,larva,2195
+FCT 5/11/2021 7,frass,6/9/2021,larva,457
+FCT 5/11/2021 7,frass,7/14/2021,larva,3289
+FCT 5/11/2021 7,frass,7/20/2021,larva,3401
+FCT 5/11/2021 7,frass,7/28/2021,larva,2985
+FCT 5/11/2021 7,frass,7/6/2021,larva,2858
+FCT 5/11/2021 7,frass,8/10/2021,larva,5349
+FCT 5/11/2021 7,frass,8/4/2021,larva,3218
+FCT 5/11/2021 8,frass,5/11/2021,egg,10
+FCT 5/11/2021 8,frass,5/24/2021,larva,175
+FCT 5/11/2021 8,frass,6/15/2021,larva,1356
+FCT 5/11/2021 8,frass,6/2/2021,larva,409
+FCT 5/11/2021 8,frass,6/22/2021,larva,1984
+FCT 5/11/2021 8,frass,6/29/2021,larva,2121
+FCT 5/11/2021 8,frass,6/9/2021,larva,658
+FCT 5/11/2021 8,frass,7/14/2021,larva,3272
+FCT 5/11/2021 8,frass,7/20/2021,larva,3171
+FCT 5/11/2021 8,frass,7/28/2021,larva,3786
+FCT 5/11/2021 8,frass,7/6/2021,larva,2752
+FCT 5/11/2021 8,frass,8/10/2021,larva,6109
+FCT 5/11/2021 8,frass,8/4/2021,larva,6213
+FCT 5/12/2021 1,frass,5/12/2021,egg,10
+FCT 5/12/2021 1,frass,5/24/2021,larva,135
+FCT 5/12/2021 1,frass,6/15/2021,larva,1311
+FCT 5/12/2021 1,frass,6/2/2021,larva,377
+FCT 5/12/2021 1,frass,6/22/2021,larva,1782
+FCT 5/12/2021 1,frass,6/29/2021,larva,2951
+FCT 5/12/2021 1,frass,6/9/2021,larva,460
+FCT 5/12/2021 1,frass,7/14/2021,larva,3566
+FCT 5/12/2021 1,frass,7/20/2021,larva,5013
+FCT 5/12/2021 1,frass,7/28/2021,larva,6013
+FCT 5/12/2021 1,frass,7/6/2021,larva,3436
+FCT 5/12/2021 1,frass,8/10/2021,larva,7110
+FCT 5/12/2021 1,frass,8/4/2021,larva,7592
+FCT 5/12/2021 2,frass,5/12/2021,egg,10
+FCT 5/12/2021 2,frass,5/24/2021,larva,191
+FCT 5/12/2021 2,frass,6/15/2021,larva,1225
+FCT 5/12/2021 2,frass,6/2/2021,larva,439
+FCT 5/12/2021 2,frass,6/22/2021,larva,1720
+FCT 5/12/2021 2,frass,6/29/2021,larva,1877
+FCT 5/12/2021 2,frass,6/9/2021,larva,670
+FCT 5/12/2021 2,frass,7/14/2021,larva,3180
+FCT 5/12/2021 2,frass,7/20/2021,larva,3175
+FCT 5/12/2021 2,frass,7/28/2021,larva,4277
+FCT 5/12/2021 2,frass,7/6/2021,larva,2455
+FCT 5/12/2021 2,frass,8/10/2021,larva,4780
+FCT 5/12/2021 2,frass,8/4/2021,larva,5097
+FCT 5/12/2021 3,frass,5/12/2021,egg,10
+FCT 5/12/2021 3,frass,5/24/2021,larva,157
+FCT 5/12/2021 3,frass,6/15/2021,larva,1134
+FCT 5/12/2021 3,frass,6/2/2021,larva,416
+FCT 5/12/2021 3,frass,6/22/2021,larva,1785
+FCT 5/12/2021 3,frass,6/29/2021,larva,2247
+FCT 5/12/2021 3,frass,6/9/2021,larva,600
+FCT 5/12/2021 3,frass,7/14/2021,larva,3624
+FCT 5/12/2021 3,frass,7/20/2021,larva,3132
+FCT 5/12/2021 3,frass,7/28/2021,larva,4390
+FCT 5/12/2021 3,frass,7/6/2021,larva,2741
+FCT 5/12/2021 3,frass,8/10/2021,larva,5268
+FCT 5/12/2021 3,frass,8/4/2021,larva,5289
+FCT 5/12/2021 4,frass,5/12/2021,egg,10
+FCT 5/12/2021 4,frass,5/24/2021,larva,90
+FCT 5/12/2021 4,frass,6/15/2021,larva,1501
+FCT 5/12/2021 4,frass,6/2/2021,larva,392
+FCT 5/12/2021 4,frass,6/22/2021,larva,2241
+FCT 5/12/2021 4,frass,6/29/2021,larva,2577
+FCT 5/12/2021 4,frass,6/9/2021,larva,539
+FCT 5/12/2021 4,frass,7/14/2021,dead,1264
+FCT 5/12/2021 4,frass,7/6/2021,larva,1965
+FCT 5/12/2021 5,frass,5/12/2021,egg,10
+FCT 5/12/2021 5,frass,5/24/2021,larva,111
+FCT 5/12/2021 5,frass,6/15/2021,larva,1301
+FCT 5/12/2021 5,frass,6/2/2021,larva,451
+FCT 5/12/2021 5,frass,6/22/2021,larva,2033
+FCT 5/12/2021 5,frass,6/29/2021,larva,3141
+FCT 5/12/2021 5,frass,6/9/2021,larva,511
+FCT 5/12/2021 5,frass,7/14/2021,larva,3982
+FCT 5/12/2021 5,frass,7/20/2021,larva,3288
+FCT 5/12/2021 5,frass,7/28/2021,larva,4698
+FCT 5/12/2021 5,frass,7/6/2021,larva,3362
+FCT 5/12/2021 5,frass,8/10/2021,larva,6343
+FCT 5/12/2021 5,frass,8/4/2021,larva,6467
+FCT 5/12/2021 6,frass,5/12/2021,egg,10
+FCT 5/12/2021 6,frass,5/24/2021,larva,89
+FCT 5/12/2021 6,frass,6/15/2021,larva,712
+FCT 5/12/2021 6,frass,6/2/2021,larva,330
+FCT 5/12/2021 6,frass,6/22/2021,larva,1607
+FCT 5/12/2021 6,frass,6/29/2021,larva,2612
+FCT 5/12/2021 6,frass,6/9/2021,larva,443
+FCT 5/12/2021 6,frass,7/14/2021,larva,3694
+FCT 5/12/2021 6,frass,7/20/2021,larva,3959
+FCT 5/12/2021 6,frass,7/28/2021,larva,5434
+FCT 5/12/2021 6,frass,7/6/2021,larva,3314
+FCT 5/12/2021 6,frass,8/10/2021,larva,6237
+FCT 5/12/2021 6,frass,8/4/2021,larva,6523
+FCT 5/12/2021 7,frass,5/12/2021,egg,10
+FCT 5/12/2021 7,frass,5/24/2021,larva,145
+FCT 5/12/2021 7,frass,6/15/2021,larva,1386
+FCT 5/12/2021 7,frass,6/2/2021,larva,417
+FCT 5/12/2021 7,frass,6/22/2021,larva,2022
+FCT 5/12/2021 7,frass,6/29/2021,larva,2454
+FCT 5/12/2021 7,frass,6/9/2021,larva,482
+FCT 5/12/2021 7,frass,7/14/2021,larva,3780
+FCT 5/12/2021 7,frass,7/20/2021,larva,3339
+FCT 5/12/2021 7,frass,7/28/2021,larva,4846
+FCT 5/12/2021 7,frass,7/6/2021,larva,3022
+FCT 5/12/2021 7,frass,8/10/2021,larva,6166
+FCT 5/12/2021 7,frass,8/4/2021,larva,6519
+FCT 5/13/2021 1,frass,5/13/2021,egg,10
+FCT 5/13/2021 1,frass,5/24/2021,egg,0
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 1,frass,EGG,egg,EGG
+FCT 5/13/2021 2,frass,5/13/2021,egg,10
+FCT 5/13/2021 2,frass,5/24/2021,empty,0
+FCT 5/13/2021 3,frass,5/13/2021,egg,10
+FCT 5/13/2021 3,frass,5/24/2021,larva,79
+FCT 5/13/2021 3,frass,6/15/2021,larva,1425
+FCT 5/13/2021 3,frass,6/2/2021,larva,445
+FCT 5/13/2021 3,frass,6/22/2021,larva,2382
+FCT 5/13/2021 3,frass,6/29/2021,larva,3094
+FCT 5/13/2021 3,frass,6/9/2021,larva,491
+FCT 5/13/2021 3,frass,7/14/2021,larva,3813
+FCT 5/13/2021 3,frass,7/20/2021,larva,3143
+FCT 5/13/2021 3,frass,7/28/2021,larva,2974
+FCT 5/13/2021 3,frass,7/6/2021,larva,2754
+FCT 5/13/2021 3,frass,8/10/2021,larva,6032
+FCT 5/13/2021 3,frass,8/4/2021,larva,5270
+FCT 5/13/2021 4,frass,5/13/2021,egg,10
+FCT 5/13/2021 4,frass,5/24/2021,larva,77
+FCT 5/13/2021 4,frass,6/15/2021,larva,856
+FCT 5/13/2021 4,frass,6/2/2021,larva,395
+FCT 5/13/2021 4,frass,6/22/2021,larva,1698
+FCT 5/13/2021 4,frass,6/29/2021,larva,2793
+FCT 5/13/2021 4,frass,6/9/2021,larva,475
+FCT 5/13/2021 4,frass,7/14/2021,larva,4202
+FCT 5/13/2021 4,frass,7/20/2021,larva,3958
+FCT 5/13/2021 4,frass,7/28/2021,larva,5384
+FCT 5/13/2021 4,frass,7/6/2021,larva,3486
+FCT 5/13/2021 4,frass,8/10/2021,larva,6137
+FCT 5/13/2021 4,frass,8/4/2021,larva,7447
+FCT 5/13/2021 5,frass,5/13/2021,egg,10
+FCT 5/13/2021 5,frass,5/24/2021,larva,102
+FCT 5/13/2021 5,frass,6/15/2021,larva,1511
+FCT 5/13/2021 5,frass,6/2/2021,larva,485
+FCT 5/13/2021 5,frass,6/22/2021,larva,1832
+FCT 5/13/2021 5,frass,6/29/2021,larva,3141
+FCT 5/13/2021 5,frass,6/9/2021,larva,667
+FCT 5/13/2021 5,frass,7/14/2021,larva,3865
+FCT 5/13/2021 5,frass,7/20/2021,larva,3965
+FCT 5/13/2021 5,frass,7/28/2021,larva,4938
+FCT 5/13/2021 5,frass,7/6/2021,larva,3006
+FCT 5/13/2021 5,frass,8/10/2021,larva,6222
+FCT 5/13/2021 5,frass,8/4/2021,larva,6216
+FCT 5/13/2021 6,frass,5/13/2021,egg,10
+FCT 5/13/2021 6,frass,5/24/2021,egg,0
+FCT 5/13/2021 6,frass,6/15/2021,larva,705
+FCT 5/13/2021 6,frass,6/2/2021,larva,339
+FCT 5/13/2021 6,frass,6/22/2021,larva,1319
+FCT 5/13/2021 6,frass,6/29/2021,larva,2223
+FCT 5/13/2021 6,frass,6/9/2021,larva,474
+FCT 5/13/2021 6,frass,7/14/2021,larva,3390
+FCT 5/13/2021 6,frass,7/20/2021,larva,3383
+FCT 5/13/2021 6,frass,7/28/2021,larva,2999
+FCT 5/13/2021 6,frass,7/6/2021,larva,2976
+FCT 5/13/2021 6,frass,8/10/2021,larva,4966
+FCT 5/13/2021 6,frass,8/4/2021,larva,4668
+FCT 5/13/2021 7,frass,5/13/2021,egg,10
+FCT 5/13/2021 7,frass,5/24/2021,empty,0
+FCT 5/13/2021 8,frass,5/13/2021,egg,10
+FCT 5/13/2021 8,frass,5/24/2021,empty,0
+FCT 5/13/2021 9,frass,5/13/2021,egg,10
+FCT 5/13/2021 9,frass,5/24/2021,larva,178
+FCT 5/13/2021 9,frass,6/15/2021,larva,1202
+FCT 5/13/2021 9,frass,6/2/2021,larva,378
+FCT 5/13/2021 9,frass,6/22/2021,larva,1345
+FCT 5/13/2021 9,frass,6/29/2021,larva,1989
+FCT 5/13/2021 9,frass,6/9/2021,larva,494
+FCT 5/13/2021 9,frass,7/14/2021,larva,2945
+FCT 5/13/2021 9,frass,7/20/2021,larva,3392
+FCT 5/13/2021 9,frass,7/28/2021,larva,3284
+FCT 5/13/2021 9,frass,7/6/2021,larva,2254
+FCT 5/13/2021 9,frass,8/10/2021,larva,4076
+FCT 5/13/2021 9,frass,8/4/2021,larva,4268
+FCT 5/14/2021 1,frass,5/14/2021,egg,10
+FCT 5/14/2021 1,frass,5/25/2021,larva,122
+FCT 5/14/2021 1,frass,6/1/2021,larva,366
+FCT 5/14/2021 1,frass,6/15/2021,larva,1469
+FCT 5/14/2021 1,frass,6/22/2021,larva,2001
+FCT 5/14/2021 1,frass,6/29/2021,larva,2127
+FCT 5/14/2021 1,frass,6/8/2021,larva,514
+FCT 5/14/2021 1,frass,7/14/2021,larva,2150
+FCT 5/14/2021 1,frass,7/20/2021,larva,2350
+FCT 5/14/2021 1,frass,7/28/2021,larva,1922
+FCT 5/14/2021 1,frass,7/6/2021,larva,2533
+FCT 5/14/2021 1,frass,8/10/2021,larva,4719
+FCT 5/14/2021 1,frass,8/4/2021,larva,2923
+FCT 5/14/2021 2,frass,5/14/2021,egg,10
+FCT 5/14/2021 2,frass,5/25/2021,larva,326
+FCT 5/14/2021 2,frass,6/1/2021,larva,383
+FCT 5/14/2021 2,frass,6/15/2021,larva,1798
+FCT 5/14/2021 2,frass,6/22/2021,larva,2749
+FCT 5/14/2021 2,frass,6/29/2021,larva,2588
+FCT 5/14/2021 2,frass,6/8/2021,larva,973
+FCT 5/14/2021 2,frass,7/14/2021,larva,3140
+FCT 5/14/2021 2,frass,7/20/2021,larva,2647
+FCT 5/14/2021 2,frass,7/28/2021,larva,3234
+FCT 5/14/2021 2,frass,7/6/2021,larva,2916
+FCT 5/14/2021 2,frass,8/10/2021,larva,6610
+FCT 5/14/2021 2,frass,8/4/2021,larva,5735
+FCT 5/14/2021 3,frass,5/14/2021,egg,10
+FCT 5/14/2021 3,frass,5/25/2021,larva,176
+FCT 5/14/2021 3,frass,6/1/2021,larva,448
+FCT 5/14/2021 3,frass,6/15/2021,larva,1510
+FCT 5/14/2021 3,frass,6/22/2021,larva,1967
+FCT 5/14/2021 3,frass,6/29/2021,larva,2226
+FCT 5/14/2021 3,frass,6/8/2021,larva,584
+FCT 5/14/2021 3,frass,7/14/2021,larva,3388
+FCT 5/14/2021 3,frass,7/20/2021,larva,3318
+FCT 5/14/2021 3,frass,7/28/2021,larva,3312
+FCT 5/14/2021 3,frass,7/6/2021,larva,2655
+FCT 5/14/2021 3,frass,8/10/2021,larva,5130
+FCT 5/14/2021 3,frass,8/4/2021,larva,4934
+FCT 5/14/2021 4,frass,5/14/2021,egg,10
+FCT 5/14/2021 4,frass,5/25/2021,larva,94
+FCT 5/14/2021 4,frass,6/1/2021,larva,361
+FCT 5/14/2021 4,frass,6/15/2021,larva,1266
+FCT 5/14/2021 4,frass,6/22/2021,larva,1926
+FCT 5/14/2021 4,frass,6/29/2021,larva,2008
+FCT 5/14/2021 4,frass,6/8/2021,larva,482
+FCT 5/14/2021 4,frass,7/14/2021,larva,2870
+FCT 5/14/2021 4,frass,7/20/2021,larva,2888
+FCT 5/14/2021 4,frass,7/28/2021,larva,3134
+FCT 5/14/2021 4,frass,7/6/2021,larva,2650
+FCT 5/14/2021 4,frass,8/10/2021,larva,5263
+FCT 5/14/2021 4,frass,8/4/2021,larva,4698
+FCT 5/14/2021 5,frass,5/14/2021,egg,10
+FCT 5/14/2021 5,frass,5/25/2021,empty,0
+FCT 5/14/2021 6,frass,5/14/2021,egg,10
+FCT 5/14/2021 6,frass,5/25/2021,larva,138
+FCT 5/14/2021 6,frass,6/1/2021,larva,370
+FCT 5/14/2021 6,frass,6/15/2021,larva,1078
+FCT 5/14/2021 6,frass,6/22/2021,larva,1358
+FCT 5/14/2021 6,frass,6/29/2021,larva,1964
+FCT 5/14/2021 6,frass,6/8/2021,larva,432
+FCT 5/14/2021 6,frass,7/14/2021,larva,2821
+FCT 5/14/2021 6,frass,7/20/2021,larva,2737
+FCT 5/14/2021 6,frass,7/28/2021,larva,2723
+FCT 5/14/2021 6,frass,7/6/2021,larva,2496
+FCT 5/14/2021 6,frass,8/10/2021,larva,4653
+FCT 5/14/2021 6,frass,8/4/2021,larva,2953
+FCT 5/14/2021 7,frass,5/14/2021,egg,10
+FCT 5/14/2021 7,frass,5/25/2021,larva,154
+FCT 5/14/2021 7,frass,6/1/2021,larva,316
+FCT 5/14/2021 7,frass,6/15/2021,larva,992
+FCT 5/14/2021 7,frass,6/22/2021,larva,1553
+FCT 5/14/2021 7,frass,6/29/2021,larva,1848
+FCT 5/14/2021 7,frass,6/8/2021,larva,322
+FCT 5/14/2021 7,frass,7/14/2021,larva,2445
+FCT 5/14/2021 7,frass,7/20/2021,larva,2289
+FCT 5/14/2021 7,frass,7/28/2021,larva,2542
+FCT 5/14/2021 7,frass,7/6/2021,larva,2261
+FCT 5/14/2021 7,frass,8/10/2021,larva,5174
+FCT 5/14/2021 7,frass,8/4/2021,larva,4145
+FCT 5/14/2021 8,frass,5/14/2021,egg,10
+FCT 5/14/2021 8,frass,5/25/2021,larva,67
+FCT 5/14/2021 8,frass,6/1/2021,larva,296
+FCT 5/14/2021 8,frass,6/15/2021,larva,1332
+FCT 5/14/2021 8,frass,6/22/2021,larva,1939
+FCT 5/14/2021 8,frass,6/29/2021,larva,2284
+FCT 5/14/2021 8,frass,6/8/2021,larva,370
+FCT 5/14/2021 8,frass,7/14/2021,larva,3025
+FCT 5/14/2021 8,frass,7/20/2021,larva,3101
+FCT 5/14/2021 8,frass,7/28/2021,larva,3664
+FCT 5/14/2021 8,frass,7/6/2021,larva,2626
+FCT 5/14/2021 8,frass,8/10/2021,larva,5826
+FCT 5/14/2021 8,frass,8/4/2021,larva,5756
+FCT 5/17/2021 1,frass,5/17/2021,egg,10
+FCT 5/17/2021 1,frass,5/25/2021,egg,0
+FCT 5/17/2021 1,frass,6/1/2021,larva,187
+FCT 5/17/2021 1,frass,6/15/2021,larva,910
+FCT 5/17/2021 1,frass,6/22/2021,larva,1543
+FCT 5/17/2021 1,frass,6/29/2021,larva,1974
+FCT 5/17/2021 1,frass,6/8/2021,larva,448
+FCT 5/17/2021 1,frass,7/14/2021,larva,2918
+FCT 5/17/2021 1,frass,7/20/2021,larva,3198
+FCT 5/17/2021 1,frass,7/28/2021,larva,3057
+FCT 5/17/2021 1,frass,7/6/2021,larva,2437
+FCT 5/17/2021 1,frass,8/10/2021,larva,4873
+FCT 5/17/2021 1,frass,8/4/2021,larva,4528
+FCT 5/17/2021 2,frass,5/17/2021,egg,10
+FCT 5/17/2021 2,frass,5/25/2021,larva,106
+FCT 5/17/2021 2,frass,6/1/2021,larva,388
+FCT 5/17/2021 2,frass,6/15/2021,larva,1070
+FCT 5/17/2021 2,frass,6/22/2021,larva,1821
+FCT 5/17/2021 2,frass,6/29/2021,larva,1868
+FCT 5/17/2021 2,frass,6/8/2021,larva,469
+FCT 5/17/2021 2,frass,7/14/2021,larva,2607
+FCT 5/17/2021 2,frass,7/20/2021,larva,2661
+FCT 5/17/2021 2,frass,7/28/2021,larva,2394
+FCT 5/17/2021 2,frass,7/6/2021,larva,2435
+FCT 5/17/2021 2,frass,8/10/2021,larva,4452
+FCT 5/17/2021 2,frass,8/4/2021,larva,3086
+FCT 5/17/2021 3,frass,5/17/2021,egg,10
+FCT 5/17/2021 3,frass,5/25/2021,larva,43
+FCT 5/17/2021 3,frass,6/1/2021,larva,255
+FCT 5/17/2021 3,frass,6/15/2021,larva,1114
+FCT 5/17/2021 3,frass,6/22/2021,larva,1813
+FCT 5/17/2021 3,frass,6/29/2021,larva,1883
+FCT 5/17/2021 3,frass,6/8/2021,larva,510
+FCT 5/17/2021 3,frass,7/14/2021,larva,2520
+FCT 5/17/2021 3,frass,7/20/2021,larva,2748
+FCT 5/17/2021 3,frass,7/28/2021,larva,2601
+FCT 5/17/2021 3,frass,7/6/2021,larva,2517
+FCT 5/17/2021 3,frass,8/10/2021,larva,4976
+FCT 5/17/2021 3,frass,8/4/2021,larva,3061
+FCT 5/17/2021 4,frass,5/17/2021,egg,10
+FCT 5/17/2021 4,frass,5/25/2021,egg,0
+FCT 5/17/2021 4,frass,6/1/2021,larva,236
+FCT 5/17/2021 4,frass,6/15/2021,larva,646
+FCT 5/17/2021 4,frass,6/22/2021,larva,1333
+FCT 5/17/2021 4,frass,6/29/2021,larva,1636
+FCT 5/17/2021 4,frass,6/8/2021,larva,442
+FCT 5/17/2021 4,frass,7/14/2021,larva,2874
+FCT 5/17/2021 4,frass,7/20/2021,larva,2763
+FCT 5/17/2021 4,frass,7/28/2021,larva,2584
+FCT 5/17/2021 4,frass,7/6/2021,larva,2290
+FCT 5/17/2021 4,frass,8/10/2021,larva,4289
+FCT 5/17/2021 4,frass,8/4/2021,larva,3428
+FCT 5/17/2021 5,frass,5/17/2021,egg,10
+FCT 5/17/2021 5,frass,5/25/2021,larva,50
+FCT 5/17/2021 5,frass,6/1/2021,larva,294
+FCT 5/17/2021 5,frass,6/15/2021,larva,892
+FCT 5/17/2021 5,frass,6/22/2021,larva,1446
+FCT 5/17/2021 5,frass,6/29/2021,larva,1684
+FCT 5/17/2021 5,frass,6/8/2021,larva,447
+FCT 5/17/2021 5,frass,7/14/2021,larva,2756
+FCT 5/17/2021 5,frass,7/20/2021,larva,3228
+FCT 5/17/2021 5,frass,7/28/2021,larva,2960
+FCT 5/17/2021 5,frass,7/6/2021,larva,2257
+FCT 5/17/2021 5,frass,8/10/2021,larva,4475
+FCT 5/17/2021 5,frass,8/4/2021,larva,4443
+FCT 5/17/2021 6,frass,5/17/2021,egg,10
+FCT 5/17/2021 6,frass,5/25/2021,larva,90
+FCT 5/17/2021 6,frass,6/1/2021,larva,366
+FCT 5/17/2021 6,frass,6/15/2021,larva,1335
+FCT 5/17/2021 6,frass,6/22/2021,larva,1856
+FCT 5/17/2021 6,frass,6/29/2021,larva,1970
+FCT 5/17/2021 6,frass,6/8/2021,larva,514
+FCT 5/17/2021 6,frass,7/14/2021,larva,3145
+FCT 5/17/2021 6,frass,7/20/2021,larva,3143
+FCT 5/17/2021 6,frass,7/28/2021,larva,3264
+FCT 5/17/2021 6,frass,7/6/2021,larva,2715
+FCT 5/17/2021 6,frass,8/10/2021,larva,4607
+FCT 5/17/2021 6,frass,8/4/2021,larva,4800
+FCT 5/17/2021 7,frass,5/17/2021,egg,10
+FCT 5/17/2021 7,frass,5/25/2021,empty,0
+FCT 5/17/2021 8,frass,5/17/2021,egg,10
+FCT 5/17/2021 8,frass,5/25/2021,larva,21
+FCT 5/17/2021 8,frass,6/1/2021,larva,236
+FCT 5/17/2021 8,frass,6/15/2021,larva,678
+FCT 5/17/2021 8,frass,6/22/2021,larva,1181
+FCT 5/17/2021 8,frass,6/29/2021,larva,1636
+FCT 5/17/2021 8,frass,6/8/2021,larva,336
+FCT 5/17/2021 8,frass,7/14/2021,larva,2675
+FCT 5/17/2021 8,frass,7/20/2021,larva,2680
+FCT 5/17/2021 8,frass,7/28/2021,larva,3132
+FCT 5/17/2021 8,frass,7/6/2021,larva,2238
+FCT 5/17/2021 8,frass,8/10/2021,larva,5280
+FCT 5/17/2021 8,frass,8/4/2021,larva,5142
+FCT 5/17/2021 9,frass,5/17/2021,egg,10
+FCT 5/17/2021 9,frass,5/25/2021,egg,0
+FCT 5/17/2021 9,frass,EGG,egg,EGG
+PF 5/11/2021 1,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 1,fecal pellets,5/25/2021,dead,71
+PF 5/11/2021 2,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 2,fecal pellets,5/25/2021,larva,55
+PF 5/11/2021 2,fecal pellets,6/2/2021,dead,25
+PF 5/11/2021 3,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 3,fecal pellets,5/25/2021,larva,78
+PF 5/11/2021 3,fecal pellets,6/2/2021,dead,52
+PF 5/11/2021 4,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 4,fecal pellets,5/25/2021,egg,0
+PF 5/11/2021 4,fecal pellets,6/2/2021,dead,16
+PF 5/11/2021 5,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 5,fecal pellets,5/25/2021,empty,0
+PF 5/11/2021 6,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 6,fecal pellets,5/25/2021,empty,0
+PF 5/11/2021 7,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 7,fecal pellets,5/25/2021,dead,67
+PF 5/11/2021 8,fecal pellets,5/11/2021,egg,10
+PF 5/11/2021 8,fecal pellets,5/25/2021,larva,38
+PF 5/11/2021 8,fecal pellets,6/2/2021,dead,62
+PF 5/12/2021 1,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 1,fecal pellets,5/25/2021,larva,60
+PF 5/12/2021 1,fecal pellets,6/2/2021,dead,54
+PF 5/12/2021 2,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 2,fecal pellets,5/25/2021,larva,67
+PF 5/12/2021 2,fecal pellets,6/2/2021,dead,32
+PF 5/12/2021 3,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 3,fecal pellets,5/25/2021,larva,57
+PF 5/12/2021 3,fecal pellets,6/2/2021,dead,14
+PF 5/12/2021 4,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 4,fecal pellets,5/25/2021,empty,0
+PF 5/12/2021 5,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 5,fecal pellets,5/25/2021,larva,68
+PF 5/12/2021 5,fecal pellets,6/2/2021,dead,37
+PF 5/12/2021 6,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 6,fecal pellets,5/25/2021,larva,75
+PF 5/12/2021 6,fecal pellets,6/2/2021,dead,55
+PF 5/12/2021 7,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 7,fecal pellets,5/25/2021,larva,75
+PF 5/12/2021 7,fecal pellets,6/2/2021,dead,28
+PF 5/12/2021 8,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 8,fecal pellets,5/25/2021,larva,54
+PF 5/12/2021 8,fecal pellets,6/2/2021,dead,21
+PF 5/12/2021 9,fecal pellets,5/12/2021,egg,10
+PF 5/12/2021 9,fecal pellets,5/24/2021,larva,68
+PF 5/12/2021 9,fecal pellets,6/2/2021,dead,15
+PF 5/13/2021 1,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 1,fecal pellets,5/24/2021,larva,51
+PF 5/13/2021 1,fecal pellets,6/2/2021,dead,15
+PF 5/13/2021 2,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 2,fecal pellets,5/24/2021,larva,40
+PF 5/13/2021 2,fecal pellets,6/2/2021,dead,30
+PF 5/13/2021 3,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 3,fecal pellets,5/24/2021,larva,56
+PF 5/13/2021 3,fecal pellets,6/2/2021,dead,33
+PF 5/13/2021 4,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 4,fecal pellets,5/24/2021,larva,43
+PF 5/13/2021 4,fecal pellets,6/2/2021,dead,63
+PF 5/13/2021 5,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 5,fecal pellets,5/24/2021,larva,52
+PF 5/13/2021 5,fecal pellets,6/15/2021,larva,164
+PF 5/13/2021 5,fecal pellets,6/2/2021,larva,93
+PF 5/13/2021 5,fecal pellets,6/22/2021,larva,209
+PF 5/13/2021 5,fecal pellets,6/29/2021,larva,288
+PF 5/13/2021 5,fecal pellets,6/9/2021,larva,107
+PF 5/13/2021 5,fecal pellets,7/6/2021,dead,45
+PF 5/13/2021 6,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 6,fecal pellets,5/24/2021,dead,63
+PF 5/13/2021 7,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 7,fecal pellets,5/24/2021,larva,28
+PF 5/13/2021 7,fecal pellets,6/2/2021,dead,18
+PF 5/13/2021 7,fecal pellets,6/9/2021,dead,0.1
+PF 5/13/2021 8,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 8,fecal pellets,5/24/2021,larva,35
+PF 5/13/2021 8,fecal pellets,6/2/2021,dead,8
+PF 5/13/2021 8,fecal pellets,6/9/2021,dead,0.6
+PF 5/13/2021 9,fecal pellets,5/13/2021,egg,10
+PF 5/13/2021 9,fecal pellets,5/24/2021,larva,52
+PF 5/13/2021 9,fecal pellets,6/2/2021,dead,54
+PF 5/14/2021 1,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 1,fecal pellets,5/24/2021,larva,71
+PF 5/14/2021 1,fecal pellets,6/2/2021,dead,31
+PF 5/14/2021 2,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 2,fecal pellets,5/24/2021,larva,59
+PF 5/14/2021 2,fecal pellets,6/2/2021,dead,5
+PF 5/14/2021 3,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 3,fecal pellets,5/24/2021,larva,51
+PF 5/14/2021 3,fecal pellets,6/2/2021,dead,39
+PF 5/14/2021 4,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 4,fecal pellets,5/24/2021,empty,0
+PF 5/14/2021 5,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 5,fecal pellets,5/24/2021,larva,55
+PF 5/14/2021 5,fecal pellets,6/2/2021,dead,25
+PF 5/14/2021 6,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 6,fecal pellets,5/24/2021,larva,78
+PF 5/14/2021 6,fecal pellets,6/2/2021,dead,16
+PF 5/14/2021 7,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 7,fecal pellets,5/24/2021,larva,62
+PF 5/14/2021 7,fecal pellets,6/2/2021,dead,49
+PF 5/14/2021 8,fecal pellets,5/14/2021,egg,10
+PF 5/14/2021 8,fecal pellets,5/24/2021,empty,0
+PF 5/17/2021 1,fecal pellets,5/17/2021,egg,10
+PF 5/17/2021 1,fecal pellets,5/24/2021,larva,80
+PF 5/17/2021 1,fecal pellets,6/2/2021,larva,96
+PF 5/17/2021 1,fecal pellets,6/9/2021,dead,66
+PF 5/17/2021 2,fecal pellets,5/17/2021,egg,10
+PF 5/17/2021 2,fecal pellets,5/24/2021,egg,0
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 2,fecal pellets,EGG,egg,EGG
+PF 5/17/2021 3,fecal pellets,5/17/2021,egg,10
+PF 5/17/2021 3,fecal pellets,5/24/2021,larva,77
+PF 5/17/2021 3,fecal pellets,6/2/2021,larva,110
+PF 5/17/2021 3,fecal pellets,6/9/2021,dead,21
+PF 5/17/2021 4,fecal pellets,5/17/2021,egg,10
+PF 5/17/2021 4,fecal pellets,5/24/2021,larva,67
+PF 5/17/2021 4,fecal pellets,6/15/2021,larva,156
+PF 5/17/2021 4,fecal pellets,6/2/2021,larva,105
+PF 5/17/2021 4,fecal pellets,6/22/2021,dead,108
+PF 5/17/2021 4,fecal pellets,6/9/2021,larva,141
+PF 5/17/2021 5,fecal pellets,5/17/2021,egg,10
+PF 5/17/2021 5,fecal pellets,5/24/2021,larva,60
+PF 5/17/2021 5,fecal pellets,6/15/2021,larva,227
+PF 5/17/2021 5,fecal pellets,6/2/2021,larva,116
+PF 5/17/2021 5,fecal pellets,6/22/2021,dead,163
+PF 5/17/2021 5,fecal pellets,6/9/2021,larva,201
+PF 5/17/2021 6,fecal pellets,5/17/2021,egg,10
+PF 5/17/2021 6,fecal pellets,5/24/2021,empty,0
+PF 5/17/2021 7,fecal pellets,5/17/2021,egg,10
+PF 5/17/2021 7,fecal pellets,5/24/2021,empty,0
+SM 5/11/2021 1,peat moss,5/11/2021,egg,10
+SM 5/11/2021 1,peat moss,5/25/2021,egg,0
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 1,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,5/11/2021,egg,10
+SM 5/11/2021 2,peat moss,5/25/2021,egg,0
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 2,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,5/11/2021,egg,10
+SM 5/11/2021 3,peat moss,5/25/2021,egg,0
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 3,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,5/11/2021,egg,10
+SM 5/11/2021 4,peat moss,5/25/2021,egg,0
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 4,peat moss,EGG,egg,EGG
+SM 5/11/2021 5,peat moss,5/11/2021,egg,10
+SM 5/11/2021 5,peat moss,5/25/2021,larva,51
+SM 5/11/2021 5,peat moss,6/1/2021,dead,19
+SM 5/11/2021 6,peat moss,5/11/2021,egg,10
+SM 5/11/2021 6,peat moss,5/25/2021,egg,0
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 6,peat moss,EGG,egg,EGG
+SM 5/11/2021 7,peat moss,5/11/2021,egg,10
+SM 5/11/2021 7,peat moss,5/25/2021,egg,0
+SM 5/11/2021 7,peat moss,6/1/2021,dead,38
+SM 5/12/2021 1,peat moss,5/12/2021,egg,10
+SM 5/12/2021 1,peat moss,5/26/2021,egg,0
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 1,peat moss,EGG,egg,EGG
+SM 5/12/2021 10,peat moss,5/12/2021,egg,10
+SM 5/12/2021 10,peat moss,5/26/2021,dead,19
+SM 5/12/2021 11,peat moss,5/12/2021,egg,10
+SM 5/12/2021 11,peat moss,5/26/2021,larva,36
+SM 5/12/2021 11,peat moss,6/1/2021,dead,25
+SM 5/12/2021 12,peat moss,5/12/2021,egg,10
+SM 5/12/2021 12,peat moss,5/26/2021,larva,33
+SM 5/12/2021 12,peat moss,6/1/2021,dead,19
+SM 5/12/2021 2,peat moss,5/12/2021,egg,10
+SM 5/12/2021 2,peat moss,5/26/2021,larva,31
+SM 5/12/2021 2,peat moss,6/1/2021,dead,32
+SM 5/12/2021 3,peat moss,5/12/2021,egg,10
+SM 5/12/2021 3,peat moss,5/26/2021,egg,0
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 3,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,5/12/2021,egg,10
+SM 5/12/2021 4,peat moss,5/26/2021,egg,0
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 4,peat moss,EGG,egg,EGG
+SM 5/12/2021 5,peat moss,5/12/2021,egg,10
+SM 5/12/2021 5,peat moss,5/26/2021,larva,55
+SM 5/12/2021 5,peat moss,6/1/2021,dead,36
+SM 5/12/2021 6,peat moss,5/12/2021,egg,10
+SM 5/12/2021 6,peat moss,5/26/2021,egg,0
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 6,peat moss,EGG,egg,EGG
+SM 5/12/2021 7,peat moss,5/12/2021,egg,10
+SM 5/12/2021 7,peat moss,5/26/2021,egg,0
+SM 5/12/2021 7,peat moss,6/1/2021,dead,34
+SM 5/12/2021 8,peat moss,5/12/2021,egg,10
+SM 5/12/2021 8,peat moss,5/26/2021,egg,0
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 8,peat moss,EGG,egg,EGG
+SM 5/12/2021 9,peat moss,5/12/2021,egg,10
+SM 5/12/2021 9,peat moss,5/26/2021,larva,29
+SM 5/12/2021 9,peat moss,6/1/2021,larva,31
+SM 5/12/2021 9,peat moss,6/8/2021,dead,27
+SM 5/13/2021 1,peat moss,5/13/2021,egg,10
+SM 5/13/2021 1,peat moss,5/26/2021,egg,0
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 1,peat moss,EGG,egg,EGG
+SM 5/13/2021 2,peat moss,5/13/2021,egg,10
+SM 5/13/2021 2,peat moss,5/26/2021,larva,43
+SM 5/13/2021 2,peat moss,6/1/2021,dead,46
+SM 5/13/2021 3,peat moss,5/13/2021,egg,10
+SM 5/13/2021 3,peat moss,5/26/2021,larva,34
+SM 5/13/2021 3,peat moss,6/1/2021,dead,29
+SM 5/13/2021 4,peat moss,5/13/2021,egg,10
+SM 5/13/2021 4,peat moss,5/26/2021,larva,44
+SM 5/13/2021 4,peat moss,6/1/2021,dead,23
+SM 5/13/2021 5,peat moss,5/13/2021,egg,10
+SM 5/13/2021 5,peat moss,5/26/2021,larva,34
+SM 5/13/2021 5,peat moss,6/1/2021,dead,28
+SM 5/13/2021 6,peat moss,5/13/2021,egg,10
+SM 5/13/2021 6,peat moss,5/26/2021,egg,0
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 6,peat moss,EGG,egg,EGG
+SM 5/13/2021 7,peat moss,5/13/2021,egg,10
+SM 5/13/2021 7,peat moss,5/26/2021,dead,23
+SM 5/13/2021 8,peat moss,5/13/2021,egg,10
+SM 5/13/2021 8,peat moss,5/26/2021,larva,35
+SM 5/13/2021 8,peat moss,6/1/2021,dead,37
+SM 5/13/2021 9,peat moss,5/13/2021,egg,10
+SM 5/13/2021 9,peat moss,5/26/2021,larva,34
+SM 5/13/2021 9,peat moss,6/1/2021,dead,29
+SM 5/14/2021 1,peat moss,5/14/2021,egg,10
+SM 5/14/2021 1,peat moss,5/25/2021,larva,46
+SM 5/14/2021 1,peat moss,6/1/2021,dead,52
+SM 5/14/2021 2,peat moss,5/14/2021,egg,10
+SM 5/14/2021 2,peat moss,5/25/2021,egg,0
+SM 5/14/2021 2,peat moss,6/1/2021,dead,22
+SM 5/14/2021 3,peat moss,5/14/2021,egg,10
+SM 5/14/2021 3,peat moss,5/25/2021,egg,0
+SM 5/14/2021 3,peat moss,6/1/2021,dead,31
+SM 5/14/2021 4,peat moss,5/14/2021,egg,10
+SM 5/14/2021 4,peat moss,5/25/2021,larva,31
+SM 5/14/2021 4,peat moss,6/1/2021,dead,29
+SM 5/14/2021 5,peat moss,5/14/2021,egg,10
+SM 5/14/2021 5,peat moss,5/25/2021,egg,0
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 5,peat moss,EGG,egg,EGG
+SM 5/14/2021 6,peat moss,5/14/2021,egg,10
+SM 5/14/2021 6,peat moss,5/25/2021,larva,48
+SM 5/14/2021 6,peat moss,6/1/2021,dead,24
+SM 5/14/2021 7,peat moss,5/14/2021,egg,10
+SM 5/14/2021 7,peat moss,5/25/2021,egg,0
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 7,peat moss,EGG,egg,EGG
+SM 5/14/2021 8,peat moss,5/14/2021,egg,10
+SM 5/14/2021 8,peat moss,5/25/2021,larva,34
+SM 5/14/2021 8,peat moss,6/1/2021,dead,24
+SM 5/17/2021 1,peat moss,5/17/2021,egg,10
+SM 5/17/2021 1,peat moss,5/25/2021,larva,35
+SM 5/17/2021 1,peat moss,6/2/2021,dead,34
+SM 5/17/2021 2,peat moss,5/17/2021,egg,10
+SM 5/17/2021 2,peat moss,5/25/2021,egg,0
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 2,peat moss,EGG,egg,EGG
+SM 5/17/2021 3,peat moss,5/17/2021,egg,10
+SM 5/17/2021 3,peat moss,5/25/2021,larva,37
+SM 5/17/2021 3,peat moss,6/2/2021,dead,25
+SM 5/17/2021 4,peat moss,5/17/2021,egg,10
+SM 5/17/2021 4,peat moss,5/25/2021,egg,0
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 4,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,5/17/2021,egg,10
+SM 5/17/2021 5,peat moss,5/25/2021,egg,0
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 5,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,5/17/2021,egg,10
+SM 5/17/2021 6,peat moss,5/25/2021,egg,0
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 6,peat moss,EGG,egg,EGG
+SM 5/17/2021 7,peat moss,5/17/2021,egg,10
+SM 5/17/2021 7,peat moss,5/25/2021,larva,35
+SM 5/17/2021 7,peat moss,6/2/2021,dead,31
+SM 5/17/2021 8,peat moss,5/17/2021,egg,10
+SM 5/17/2021 8,peat moss,5/25/2021,larva,32
+SM 5/17/2021 8,peat moss,6/2/2021,dead,37
+SM 5/17/2021 9,peat moss,5/17/2021,egg,10
+SM 5/17/2021 9,peat moss,5/25/2021,larva,45
+SM 5/17/2021 9,peat moss,6/2/2021,dead,21
